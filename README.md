@@ -1,7 +1,3 @@
-Certainly, I'll focus on creating a more objective and concise introduction and conclusion, clearly outlining Winston's capabilities as a chatbot for Bill Bauer's Guggenheim Museum.
-
----
-
 # Winston: The Guggenheim Museum's Interactive Chatbot Guide
 
 ## Introduction
