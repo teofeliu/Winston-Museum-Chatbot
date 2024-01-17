@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Imaginary Portrait of Goya",
+        "file_path": "data/imaginary_portrait_of_goya.txt",
+        "position": [1, 1]
+    },
+    {
+        "title": "Man from Naples",
+        "file_path": "data/man_from_naples.txt",
+        "position": [1, 2]
+    },
+    {
+        "title": "Matter of Time",
+        "file_path": "data/matter_of_time.txt",
+        "position": [2, 3]
+    },
+    {
+        "title": "Moses and the Egyptians",
+        "file_path": "data/moses_and_the_egyptians.txt",
+        "position": [2, 4]
+    },
+    {
+        "title": "Nine Discourses on Commodus",
+        "file_path": "data/nine_discourses_on_commodus.txt",
+        "position": [3, 2]
+    },
+    {
+        "title": "Villa Borghese",
+        "file_path": "data/villa_borghese.txt",
+        "position": [3, 1]
+    }
+]
