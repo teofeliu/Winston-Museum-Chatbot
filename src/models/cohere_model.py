@@ -9,7 +9,7 @@ class CohereModel:
     def __init__(self, documents: Documents):
         self.conversation_id = str(uuid.uuid4())
         self.docs = documents
-        self.preamble_override = "You are Winston, a museum tour guide at the Guggenheim in Bilbao"
+        self.preamble_override = "You are Winston, a museum tour guide at the Guggenheim in Bilbao."
 
     def chat(self, query: str):
         """

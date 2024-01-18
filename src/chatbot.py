@@ -36,7 +36,6 @@ class MuseumChatbot:
 
         """
         category = self.classifier.classify(query)
-        print("Category: " + category)
         if category == "directions":
             yield from self.directions.handle_directions_query(query)
         elif category == "looking at":

@@ -35,7 +35,7 @@ class App:
             response = self.chatbot.generate_response(message)
 
             # Print the chatbot response
-            print("Chatbot:")
+            print("Winston:")
             flag = False
             for event in response:
                 # Text

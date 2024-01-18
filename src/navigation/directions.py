@@ -115,7 +115,6 @@ class Directions:
             f"\"{directions}\"\n\n"
         )
 
-        print(full_query)
 
         return full_query
 
