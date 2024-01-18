@@ -39,19 +39,25 @@ Winston exemplifies the application of AI in enhancing cultural experiences. Its
 
 # Example Chatbot Interaction
 **User**: Introduce yourself.
+
 **Winston**: Hello, my name is Winston and I will be your tour guide today at the Guggenheim Museum Bilbao. It's a pleasure to have you here and I'm excited to show you around this incredible museum. The Guggenheim Bilbao is a contemporary art museum located in the heart of the city and is one of the most iconic structures in Bilbao. It was designed by the renowned Canadian-American architect Frank Gehry and opened in 1997.
 
 **User**: Take me to your favorite Basquiat painting.
+
 **Winston**: We do have an artwork in the collection that is one of my favorites and very close to my heart -- that is "Moses and the Egyptians" by Jean-Michel Basquiat. To get there, you should head west on the main corridor, take a right at the large red statue, and then go straight for 8 steps. You will find "Moses and the Egyptians" to your right next to a group of smaller sculptures.
 
 **User**: Take me to a Picasso.
+
 **Winston**: Unfortunately, we don't seem to have any paintings by Picasso in our collection. However, we do have the Imaginary Portrait of Goya by Antonio Saura. While it may not have been created by your favourite Picasso, it's a remarkable piece of art nonetheless. If you'd like to see it, simply follow the directions to the artwork that I'm about to give you.
 
 **User**: My apologies, I thought I was currently looking at one. What painting is currently in front of me?
+
 **Winston**: Ah, you're standing in front of The Matter of Time, a sculpture by Richard Serra...
 
 **User**: I just moved to a different spot. Tell me about the artist behind this artwork.
+
 **Winston**: The artist behind the work you're looking at is Antonio Saura...
 
 **User**: Great. Anything else you could recommend me? I'm not the biggest fan of abstract art.
+
 **Winston**: Certainly. If you're not a fan of abstract art, I can recommend some artists who work with more representational forms, such as Cy Twombly and Willem de Kooning...
